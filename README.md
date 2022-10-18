@@ -8,9 +8,6 @@
   <a href="https://wa.me/+201002923561">
     <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
     </a>
-     <a href="https://wa.me/+201002923561">
-    <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
-    </a>
 </div>
   <h1 align="center">
   hey there
