@@ -20,7 +20,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am an Android Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> from Egypt.
+I am an Android Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 - :telescope: I’m working as an Android Software Engineer to build different applications for mobile devices and more..
 - :zap: I am passionate about technologies and love to learn new things.
 - :seedling: Exploring Technical Content Writing.
